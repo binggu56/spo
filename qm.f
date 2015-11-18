@@ -110,7 +110,7 @@ cccccccccccccccc metastable well ccccccccccccccccc
 
       do i=1,N1
 !        x = xmin + (i-1)*dx  
-        D = 16d0 
+        D = 16.0 
         a = 1.3624d0 
         v(i) = D/cosh(a*x(i))**2 
       enddo 
