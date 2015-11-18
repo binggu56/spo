@@ -1,7 +1,7 @@
 objects = qm.o
 FC = gfortran
 switch = -O3
-EXEC = qm.x 
+EXEC = qm.x
 #LIB = /usr/lib64/atlas/liblapack.so.3.0
 #LIB = -llapack  
 $(EXEC): $(objects)

@@ -1,0 +1,7 @@
+1024                    / np
+-8d0,8d0              / xmin,xmax 
+0.97d0                   / ax
+-3d0,0d0                 / x0,p0
+0.0,0.0                / di,ai
+4000,0.002d0,1,-1         / Nt,dt,nout,ipot
+1.0d0                   / mass
